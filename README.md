@@ -2,5 +2,5 @@
 Simple REACT game
 
 
-#Before
+# Before
 Install package.json (npm install)
